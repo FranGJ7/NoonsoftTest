@@ -53,7 +53,7 @@ npm install</code></pre>
 <ol>
     <li>Certifique-se de estar no diretório <code>backend</code>:</li>
 </ol>
-<pre><code>back</code></pre>
+<pre><code>cd back</code></pre>
 
 <ol start="2">
     <li>Execute o servidor backend:</li>
