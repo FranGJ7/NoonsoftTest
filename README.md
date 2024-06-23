@@ -34,7 +34,7 @@
     <li>Clone o repositório:</li>
 </ol>
 <pre><code>git clone git@github.com:FranGJ7/NoonsoftTest.git
-cd seu-projeto</code></pre>
+cd NoonsoftTest</code></pre>
 
 <ol start="2">
     <li>Instale as dependências do frontend:</li>
@@ -58,7 +58,7 @@ npm install</code></pre>
 <ol start="2">
     <li>Execute o servidor backend:</li>
 </ol>
-<pre><code>dotnet run</code></pre>
+<pre><code>dotnet run --urls "http://localhost:5214"</code></pre>
 
 <h3>Iniciando o Frontend</h3>
 <ol>
