@@ -54,7 +54,7 @@ npm install</code></pre>
 <ol>
     <li>Certifique-se de estar no diretório <code>backend</code>:</li>
 </ol>
-<pre><code>cd backend</code></pre>
+<pre><code>cd back</code></pre>
 
 <ol start="2">
     <li>Execute o servidor backend:</li>
@@ -65,7 +65,7 @@ npm install</code></pre>
 <ol>
     <li>Vá para o diretório <code>frontend</code>:</li>
 </ol>
-<pre><code>cd frontend</code></pre>
+<pre><code>cd front</code></pre>
 
 <ol start="2">
     <li>Inicie o servidor de desenvolvimento do frontend:</li>
